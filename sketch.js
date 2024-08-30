@@ -54,13 +54,13 @@ function draw() {
   
   ///var score = Math.round(random(1,6));
      switch (score){
-       case 5: monkey.scale=0.12;
+       case 5: monkey.scale=0.20;
          break;
-       case 10: monkey.scale=0.14;
+       case 10: monkey.scale=0.25;
          break;
-       case 15: monkey.scale=0.16;
+       case 15: monkey.scale=0.30;
          break;
-       case 20: monkey.scale=0.18;  
+       case 20: monkey.scale=0.35;  
          break;
        default: break;
      }
